@@ -1,0 +1,7 @@
+spring:
+  thymeleaf:
+    #禁用模板缓存
+    cache: false
+  messages:
+    encoding: utf-8
+    basename: message11
